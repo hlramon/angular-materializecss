@@ -1,0 +1,4 @@
+.delay{
+	-webkit-animation-delay: 3s; /* Chrome, Safari, Opera */
+	animation-delay: 3s;
+}
